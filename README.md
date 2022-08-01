@@ -59,7 +59,8 @@ func main() {
 
 8. Chạy "go run main.go" và vào mail kiểm tra
 
-! Định dạng mail sender có thể là sender := "sender@example.com" hoặc "Mailgun Sandbox<your-domain-name>"
+# Định dạng mail sender có thể là sender := "sender@example.com" hoặc "Mailgun Sandbox <your-domain-name>"
 
 # Nếu Clone code
 Bắt đầu từ bước 3
+
